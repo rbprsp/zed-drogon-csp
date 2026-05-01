@@ -1,0 +1,6 @@
+("<%c++"   @open "%>" @close)
+("<%inc"   @open "%>" @close)
+("<%view"  @open "%>" @close)
+("<%layout" @open "%>" @close)
+("[["      @open "]]" @close)
+("{%"      @open "%}" @close)
